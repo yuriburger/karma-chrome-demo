@@ -1,0 +1,23 @@
+{
+  "name": "karma-selenium-demo",
+  "version": "1.0.0",
+  "description": "Karma Selenium Demo",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriburger/karma-selenium-Demo.git"
+  },
+  "keywords": [
+    "Karma",
+    "Selenium"
+  ],
+  "author": "Yuri Burger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuriburger/karma-selenium-Demo/issues"
+  },
+  "homepage": "https://github.com/yuriburger/karma-selenium-Demo#readme"
+}

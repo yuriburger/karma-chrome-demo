@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/yuriburger/karma-selenium-Demo/issues"
   },
-  "homepage": "https://github.com/yuriburger/karma-selenium-Demo#readme"
+  "homepage": "https://github.com/yuriburger/karma-selenium-Demo#readme",
+  "devDependencies": {
+      "@types/jasmine": "^2.8.2",
+      "jasmine-core": "^2.8.0",
+      "karma": "^1.7.1",
+      "karma-chrome-launcher": "^2.2.0",
+      "karma-cli": "^1.0.1",
+      "karma-jasmine": "^1.1.1",
+      "karma-typescript": "^3.0.8",
+      "typescript": "^2.5.2"
+  }
 }

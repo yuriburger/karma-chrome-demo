@@ -1,2 +1,2 @@
-# karma-selenium-Demo
+# karma-selenium-demo
 Karma Selenium Demo

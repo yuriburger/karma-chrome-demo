@@ -4,7 +4,8 @@
   "description": "Karma Chrome Demo",
   "main": "dist/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "test": "karma start"
   },
   "repository": {
     "type": "git",

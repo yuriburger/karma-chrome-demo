@@ -1,14 +1,14 @@
 {
-  "name": "karma-selenium-demo",
+  "name": "karma-chrome-demo",
   "version": "1.0.0",
-  "description": "Karma Selenium Demo",
+  "description": "Karma Chrome Demo",
   "main": "dist/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuriburger/karma-selenium-demo.git"
+    "url": "git+https://github.com/yuriburger/karma-chrome-demo.git"
   },
   "keywords": [
     "Karma",
@@ -17,9 +17,9 @@
   "author": "Yuri Burger",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yuriburger/karma-selenium-demo/issues"
+    "url": "https://github.com/yuriburger/karma-chrome-demo/issues"
   },
-  "homepage": "https://github.com/yuriburger/karma-selenium-demo#readme",
+  "homepage": "https://github.com/yuriburger/karma-chrome-demo#readme",
   "devDependencies": {
       "@types/jasmine": "^2.8.2",
       "jasmine-core": "^2.8.0",
